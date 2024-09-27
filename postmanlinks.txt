@@ -1,0 +1,4 @@
+http://localhost:8080/api/tasks
+http://localhost:8080/api/tasks
+http://localhost:8080/api/tasks/1
+http://localhost:8080/api/tasks/1
